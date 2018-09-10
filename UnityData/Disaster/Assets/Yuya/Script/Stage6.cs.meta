@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 30e441274c3ae96459b930bf8488afde
+timeCreated: 1516690457
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - block: {fileID: 1252896854429364, guid: c5caab48598ed9c4a96deff6c33c2cf3, type: 2}
+  - Sword: {fileID: 1451842185988704, guid: d1489d3aaf8042a49adbd5256d717d58, type: 2}
+  - DropSword: {fileID: 1859125281620502, guid: 5ca3490d4f6dc1f4d823526ccc80d55e,
+      type: 2}
+  - GrowSword: {fileID: 1327817493381880, guid: 7bf3a32d8fb7ee344b0476ea9ab8766f,
+      type: 2}
+  - ReversGrowSword: {fileID: 1123457533166128, guid: ffa41df5030fecf4cbb35b69ff5f167a,
+      type: 2}
+  - ReversSword: {fileID: 1560534620820604, guid: 095768b8768cd964798119e6483af38b,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
